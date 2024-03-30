@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        int[] list = {4,1, 10, 3, 5,9,4,12,30,27};
+        int[] list = {4,1, 10, 3, 15,9,4,12,30,27};
         int may = list[0];
         int men = list[0];
 
